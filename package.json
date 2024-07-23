@@ -1,0 +1,36 @@
+{
+   "name": "bipaswi",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "react-scripts": "^5.0.1"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    },
+    "dependencies": {
+      "@google/generative-ai": "^0.15.0",
+      "markdown-to-jsx": "^7.4.7",
+      "react-dom": "^18.3.1",
+        "esprima": "^4.0.1"
+    }
+  
+  
+}
